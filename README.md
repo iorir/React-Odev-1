@@ -11,9 +11,7 @@
  Clone the project
 ```bash
   git clone https://github.com/iorir/React-Odev-1.git
-  cd react-odev-1
  ```
-
 
 Install dependencies
 
