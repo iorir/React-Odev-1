@@ -16,7 +16,11 @@
 Install dependencies
 
 ```bash
-  npm i or yarn
+  npm i 
+```
+or
+```bash
+  yarn 
 ```
 
 Start the server
